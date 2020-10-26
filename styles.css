@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+    color: red;
+}
+
+body {
+    background-image: url("https://i.dailymail.co.uk/i/pix/2013/10/06/article-2446556-188FE74500000578-445_306x423.jpg");
+}
+
+.Meme-Result {
+    text-align: center;
+    color: blue;
+}
+
+.Meme {
+    color: yellow;
+}
+
+.Meme-Teller {
+    text-align: center;
+    color: orange;
+}
+
+.Meme-Submit {
+    color: lime;
+
+}
+
+.Meme-Submit-div {
+    display: flex;
+    justify-content: center;
+}
+
+.Meme-Text {
+    text-align: center;
+}
+
+.Geico {
+    text-align: center;
+    color: lime;
+}
